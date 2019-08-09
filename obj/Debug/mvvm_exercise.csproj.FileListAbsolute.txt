@@ -1,0 +1,16 @@
+C:\Users\Edrix\Desktop\mvvm_exercise\bin\Debug\mvvm_exercise.exe.config
+C:\Users\Edrix\Desktop\mvvm_exercise\bin\Debug\mvvm_exercise.exe
+C:\Users\Edrix\Desktop\mvvm_exercise\bin\Debug\mvvm_exercise.pdb
+C:\Users\Edrix\Desktop\mvvm_exercise\obj\Debug\mvvm_exercise.csprojAssemblyReference.cache
+C:\Users\Edrix\Desktop\mvvm_exercise\obj\Debug\MainWindow.g.cs
+C:\Users\Edrix\Desktop\mvvm_exercise\obj\Debug\App.g.cs
+C:\Users\Edrix\Desktop\mvvm_exercise\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Edrix\Desktop\mvvm_exercise\obj\Debug\mvvm_exercise_MarkupCompile.cache
+C:\Users\Edrix\Desktop\mvvm_exercise\obj\Debug\mvvm_exercise_MarkupCompile.lref
+C:\Users\Edrix\Desktop\mvvm_exercise\obj\Debug\MainWindow.baml
+C:\Users\Edrix\Desktop\mvvm_exercise\obj\Debug\mvvm_exercise.g.resources
+C:\Users\Edrix\Desktop\mvvm_exercise\obj\Debug\mvvm_exercise.Properties.Resources.resources
+C:\Users\Edrix\Desktop\mvvm_exercise\obj\Debug\mvvm_exercise.csproj.GenerateResource.cache
+C:\Users\Edrix\Desktop\mvvm_exercise\obj\Debug\mvvm_exercise.csproj.CoreCompileInputs.cache
+C:\Users\Edrix\Desktop\mvvm_exercise\obj\Debug\mvvm_exercise.exe
+C:\Users\Edrix\Desktop\mvvm_exercise\obj\Debug\mvvm_exercise.pdb
